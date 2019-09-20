@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Isaac Zody's 2020 digital portfolio
 
 You can use the [editor on GitHub](https://github.com/Isaac123Zody/DM2Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
