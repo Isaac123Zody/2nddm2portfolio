@@ -26,7 +26,7 @@ a:hover, a:active, a:focus {
 	margin: 0 auto;
 }
 .header {
-	background:#AC12F3;
+	background:#10F5D7;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -36,7 +36,7 @@ a:hover, a:active, a:focus {
 	
 }
 .nav {
-	background:#071CE5;
+	background:#10F5D7;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -45,7 +45,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #10F5D7;
 	margin: 0px;
 	float: left;
 	width: 100%;
